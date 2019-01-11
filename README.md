@@ -1,7 +1,7 @@
 # skimmer
 Parse plaintext LexisNexis news dumps, and output only article metadata (publication, date, headline, byline, etc) and the portion of the article containing a chosen keyword.
 
-Skimmer is a quick and dirty shell script to parse LexisNexis news dumps (currently only accepts plaintext input) and output article metadata (publication, byline, date, etc) plus the portion of the article containing a keyword keyword (like target's last name. It also displays 600 chars of context before and after the keyword. 
+Skimmer is a quick and dirty shell script to parse LexisNexis news dumps (currently only accepts plaintext input) and output article metadata (publication, byline, date, etc) plus the portion of the article containing a keyword (like target's last name. It also displays 600 chars of context before and after the keyword. 
 
 I made it to save myself scrolling on initial target overviews.
 

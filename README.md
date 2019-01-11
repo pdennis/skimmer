@@ -5,7 +5,7 @@ Skimmer is a quick and dirty shell script to parse LexisNexis news dumps (curren
 
 I made it to save myself scrolling on initial target overviews.
 
-synax: ./skimmer [keyword] [/path/to/nexis/dump]
+synax: ./skimmer [keyword] [/path/to/nexis/dump.txt]
 
 Requires pcregrep, which can be installed as part of PCRE. On mac, you can install it with 'brew install pcre', assuming you have homebrew installed. On Ubuntu 'apt-get install pcregrep'
 
